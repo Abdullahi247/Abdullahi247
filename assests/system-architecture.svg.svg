@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-88b5aq-3" style="width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(74.62000879722399,311.9231709105127) scale(0.4457260153462685)"><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M226,-591.781C266,-591.781,266,-538.469,306,-538.469" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.4.5" d="M293,-467.344C333,-467.344,333,-507.094,373,-507.094" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.4.6" d="M293,-467.344C333,-467.344,333,-480.719,373,-480.719" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.4.7" d="M293,-467.344C333,-467.344,333,-454.344,373,-454.344" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.4.8" d="M293,-467.344C333,-467.344,333,-427.969,373,-427.969" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.9.10" d="M321,-329.406C361,-329.406,361,-262.594,401,-262.594" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.11.12.13" d="M766,-156.719C806,-156.719,806,-82.312,846,-82.312" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.11.14.15" d="M706,12.969C746,12.969,746,76.875,786,76.875" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.11.16.17" d="M820,172.156C860,172.156,860,236.063,900,236.063" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.11.12" d="M386,7.906C426,7.906,426,-156.719,466,-156.719" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.11.14" d="M386,7.906C426,7.906,426,12.969,466,12.969" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.11.16" d="M386,7.906C426,7.906,426,172.156,466,172.156" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.18.19" d="M430,307.094C470,307.094,470,267.344,510,267.344" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.18.20" d="M430,307.094C470,307.094,470,293.719,510,293.719" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.18.21" d="M430,307.094C470,307.094,470,320.094,510,320.094" stroke-width="1.375" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.18.22" d="M430,307.094C470,307.094,470,346.469,510,346.469" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.23.24" d="M213,438.031C253,438.031,253,497.844,293,497.844" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.25.26" d="M249,555.781C289,555.781,289,529.219,329,529.219" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.25.27" d="M249,555.781C289,555.781,289,555.594,329,555.594" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.25.28" d="M249,555.781C289,555.781,289,581.969,329,581.969" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.29.30" d="M220,613.531C260,613.531,260,613.344,300,613.344" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M0,1.25C40,1.25,40,-591.781,80,-591.781" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.4" d="M0,1.25C40,1.25,40,-467.344,80,-467.344" stroke-width="1.75" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="2" data-path="1.9" d="M0,1.25C40,1.25,40,-329.406,80,-329.406" stroke-width="1.75" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.11" d="M0,1.25C40,1.25,40,7.906,80,7.906" stroke-width="1.75" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="2" data-path="1.18" d="M0,1.25C40,1.25,40,307.094,80,307.094" stroke-width="1.75" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="2" data-path="1.23" d="M0,1.25C40,1.25,40,438.031,80,438.031" stroke-width="1.75" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.25" d="M0,1.25C40,1.25,40,555.781,80,555.781" stroke-width="1.75" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="2" data-path="1.29" d="M0,1.25C40,1.25,40,613.531,80,613.531" stroke-width="1.75" stroke="rgb(188, 189, 34)"/><g class="markmap-highlight"/><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(306, -666.15625)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="378" y1="127.6875" y2="127.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="360" height="127"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="22,29">
+<thead data-lines="22,23">
+<tr data-lines="22,23">
+<th>Metric</th>
+<th>Value</th>
+<th>Proof</th>
+</tr>
+</thead>
+<tbody data-lines="24,29">
+<tr data-lines="24,25">
+<td><strong>Production Apps</strong></td>
+<td>3 Deployed</td>
+<td><a href="#">Live Demo</a></td>
+</tr>
+<tr data-lines="25,26">
+<td><strong>CI/CD Pipelines</strong></td>
+<td>100% Automated</td>
+<td><a href="#">GitHub Actions</a></td>
+</tr>
+<tr data-lines="26,27">
+<td><strong>Code Quality</strong></td>
+<td>A+ Grade</td>
+<td><a href="#">SonarQube</a></td>
+</tr>
+<tr data-lines="27,28">
+<td><strong>Performance</strong></td>
+<td>40% Faster APIs</td>
+<td><a href="#">Benchmarks</a></td>
+</tr>
+<tr data-lines="28,29">
+<td><strong>Open Source</strong></td>
+<td>500+ Stars</td>
+<td><a href="#">Contributions</a></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(80, -612.65625)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="148" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="146" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="130" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🎯 Impact Metrics</div></div></foreignObject></g><g data-depth="3" data-path="1.4.5" class="markmap-node" transform="translate(373, -527.78125)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="362" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="344" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Microservices</strong> with event-driven communication</div></div></foreignObject></g><g data-depth="3" data-path="1.4.6" class="markmap-node" transform="translate(373, -501.40625)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="429" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="411" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>AI Integration</strong> via OpenAI/Claude APIs with caching layer</div></div></foreignObject></g><g data-depth="3" data-path="1.4.7" class="markmap-node" transform="translate(373, -475.03125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="372" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="354" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Infrastructure as Code</strong> (Terraform + Kubernetes)</div></div></foreignObject></g><g data-depth="3" data-path="1.4.8" class="markmap-node" transform="translate(373, -448.65625)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="386" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="368" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Observability</strong> stack (Prometheus + Grafana + Loki)</div></div></foreignObject></g><g data-depth="2" data-path="1.4" class="markmap-node" transform="translate(80, -488.21875)"><line stroke="#d62728" stroke-width="1.75" x1="-1" x2="215" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="213" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="197" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🏗️ Architecture at a Glance</div></div></foreignObject></g><g data-depth="3" data-path="1.9.10" class="markmap-node" transform="translate(401, -417.28125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="623" y1="154.6875" y2="154.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="605" height="154"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="51,59">
+<thead data-lines="51,52">
+<tr data-lines="51,52">
+<th>Category</th>
+<th>Technologies</th>
+<th>Versions</th>
+</tr>
+</thead>
+<tbody data-lines="53,59">
+<tr data-lines="53,54">
+<td><strong>Frontend</strong></td>
+<td>Next.js • React • TypeScript • Tailwind</td>
+<td><code>14.2.x</code> • <code>18.x</code> • <code>5.x</code> • <code>3.x</code></td>
+</tr>
+<tr data-lines="54,55">
+<td><strong>Backend</strong></td>
+<td>Node.js • Express • PostgreSQL • Redis</td>
+<td><code>20.x</code> • <code>4.x</code> • <code>15.x</code> • <code>7.x</code></td>
+</tr>
+<tr data-lines="55,56">
+<td><strong>Mobile</strong></td>
+<td>Flutter • Dart • Kotlin Multiplatform</td>
+<td><code>3.x</code> • <code>3.x</code> • <code>1.9.x</code></td>
+</tr>
+<tr data-lines="56,57">
+<td><strong>DevOps</strong></td>
+<td>Terraform • Kubernetes • Docker • GitHub Actions</td>
+<td><code>1.7.x</code> • <code>1.29.x</code> • <code>24.x</code> • <code>v4</code></td>
+</tr>
+<tr data-lines="57,58">
+<td><strong>AI/ML</strong></td>
+<td>OpenAI API • LangChain • TensorFlow Lite</td>
+<td><code>1.x</code> • <code>0.1.x</code> • <code>2.x</code></td>
+</tr>
+<tr data-lines="58,59">
+<td><strong>Cloud</strong></td>
+<td>AWS • Vercel • Railway</td>
+<td><code>2024</code> • <code>Pro</code> • <code>Team</code></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.9" class="markmap-node" transform="translate(80, -350.28125)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="243" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="241" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="225" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">💻 Tech Stack (Exact Versions)</div></div></foreignObject></g><g data-depth="4" data-path="1.11.12.13" class="markmap-node" transform="translate(846, -251.90625)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="616" y1="169.59375" y2="169.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="598" height="169"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="67,76">
+<thead data-lines="67,68">
+<tr data-lines="67,68">
+<th>Aspect</th>
+<th>Implementation</th>
+</tr>
+</thead>
+<tbody data-lines="69,76">
+<tr data-lines="69,70">
+<td><strong>Problem</strong></td>
+<td>Manual content creation bottleneck for marketing teams</td>
+</tr>
+<tr data-lines="70,71">
+<td><strong>Solution</strong></td>
+<td>AI-powered content generation with brand voice training</td>
+</tr>
+<tr data-lines="71,72">
+<td><strong>Stack</strong></td>
+<td>Next.js 14 (App Router) • OpenAI GPT-4 • Pinecone Vector DB • Stripe</td>
+</tr>
+<tr data-lines="72,73">
+<td><strong>Metrics</strong></td>
+<td>10K+ users • 500K+ AI generations • 99.9% uptime</td>
+</tr>
+<tr data-lines="73,74">
+<td><strong>Architecture</strong></td>
+<td><a href="./assets/ai-saas-architecture.excalidraw">View Diagram</a></td>
+</tr>
+<tr data-lines="74,75">
+<td><strong>Live Demo</strong></td>
+<td><a href="https://your-ai-saas.vercel.app">🚀 Launch App</a></td>
+</tr>
+<tr data-lines="75,76">
+<td><strong>Repo</strong></td>
+<td><a href="https://github.com/you/ai-saas">github.com/you/ai-saas</a></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.11.12" class="markmap-node" transform="translate(466, -177.40625)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="302" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="300" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="284" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. Full-Stack AI-Powered SaaS Platform</div></div></foreignObject></g><g data-depth="4" data-path="1.11.14.15" class="markmap-node" transform="translate(786, -71.71875)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="552" y1="148.59375" y2="148.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="534" height="148"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="88,96">
+<thead data-lines="88,89">
+<tr data-lines="88,89">
+<th>Aspect</th>
+<th>Implementation</th>
+</tr>
+</thead>
+<tbody data-lines="90,96">
+<tr data-lines="90,91">
+<td><strong>Problem</strong></td>
+<td>Manual infrastructure provisioning causing 48hr delays</td>
+</tr>
+<tr data-lines="91,92">
+<td><strong>Solution</strong></td>
+<td>Terraform modules + Kubernetes operators for self-service</td>
+</tr>
+<tr data-lines="92,93">
+<td><strong>Stack</strong></td>
+<td>Terraform • AWS EKS • Prometheus • Grafana • ArgoCD</td>
+</tr>
+<tr data-lines="93,94">
+<td><strong>Metrics</strong></td>
+<td>90% reduction in provisioning time • $12K/month cost savings</td>
+</tr>
+<tr data-lines="94,95">
+<td><strong>Architecture</strong></td>
+<td><a href="./assets/devops-platform.excalidraw">View Diagram</a></td>
+</tr>
+<tr data-lines="95,96">
+<td><strong>Live Demo</strong></td>
+<td><a href="https://your-devops-dashboard.railway.app">🔧 View Dashboard</a></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.11.14" class="markmap-node" transform="translate(466, -7.71875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="242" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="240" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="224" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. DevOps Automation Platform</div></div></foreignObject></g><g data-depth="4" data-path="1.11.16.17" class="markmap-node" transform="translate(900, 87.46875)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="550" y1="148.59375" y2="148.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="532" height="148"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="108,116">
+<thead data-lines="108,109">
+<tr data-lines="108,109">
+<th>Aspect</th>
+<th>Implementation</th>
+</tr>
+</thead>
+<tbody data-lines="110,116">
+<tr data-lines="110,111">
+<td><strong>Problem</strong></td>
+<td>Field workers need AI assistance without internet connectivity</td>
+</tr>
+<tr data-lines="111,112">
+<td><strong>Solution</strong></td>
+<td>Flutter app with TensorFlow Lite models + KMM shared logic</td>
+</tr>
+<tr data-lines="112,113">
+<td><strong>Stack</strong></td>
+<td>Flutter • Kotlin Multiplatform • TensorFlow Lite • Isar DB</td>
+</tr>
+<tr data-lines="113,114">
+<td><strong>Metrics</strong></td>
+<td>50K+ downloads • 4.8★ rating • 60fps performance</td>
+</tr>
+<tr data-lines="114,115">
+<td><strong>Architecture</strong></td>
+<td><a href="./assets/flutter-ai-app.excalidraw">View Diagram</a></td>
+</tr>
+<tr data-lines="115,116">
+<td><strong>Live Demo</strong></td>
+<td><a href="https://your-flutter-app.demo">📱 Try on Web</a></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.11.16" class="markmap-node" transform="translate(466, 151.46875)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="356" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="354" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="338" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. Flutter Cross-Platform App with On-Device AI</div></div></foreignObject></g><g data-depth="2" data-path="1.11" class="markmap-node" transform="translate(80, -12.96875)"><line stroke="#1f77b4" stroke-width="1.75" x1="-1" x2="308" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="306" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="290" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🚀 Featured Projects (IMPACT Formula)</div></div></foreignObject></g><g data-depth="3" data-path="1.18.19" class="markmap-node" transform="translate(510, 246.65625)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="490" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="472" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Architecture Decisions</strong>: Copilot Chat for design pattern validation</div></div></foreignObject></g><g data-depth="3" data-path="1.18.20" class="markmap-node" transform="translate(510, 273.03125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="456" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="438" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Code Review</strong>: AI-assisted PR summaries + security scanning</div></div></foreignObject></g><g data-depth="3" data-path="1.18.21" class="markmap-node" transform="translate(510, 299.40625)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="460" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="442" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Documentation</strong>: Automated API docs + architecture diagrams</div></div></foreignObject></g><g data-depth="3" data-path="1.18.22" class="markmap-node" transform="translate(510, 325.78125)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="419" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="401" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Testing</strong>: Property-based test generation with Hypothesis</div></div></foreignObject></g><g data-depth="2" data-path="1.18" class="markmap-node" transform="translate(80, 286.21875)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="352" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="350" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="334" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🛠️ Built with GitHub Copilot as Force Multiplier</div></div></foreignObject></g><g data-depth="3" data-path="1.23.24" class="markmap-node" transform="translate(293, 357.15625)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="513" y1="140.6875" y2="140.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="495" height="140"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&amp;title=Tech%20Stack&amp;lineCount=2&amp;line1=nextjs,react,typescript,tailwind,nodejs,postgresql&amp;line2=flutter,kotlin,docker,kubernetes,terraform,aws&amp;bg=0D1117&amp;badgeColor=000000&amp;borderColor=21262D" alt="Tech Stack" /></div></div></foreignObject></g><g data-depth="2" data-path="1.23" class="markmap-node" transform="translate(80, 417.15625)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="135" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="133" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="117" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">📊 GitHub Stats</div></div></foreignObject></g><g data-depth="3" data-path="1.25.26" class="markmap-node" transform="translate(329, 508.53125)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="435" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="417" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>AI Agent Orchestration Platform</strong> (LangChain + AutoGen)</div></div></foreignObject></g><g data-depth="3" data-path="1.25.27" class="markmap-node" transform="translate(329, 534.90625)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="366" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="348" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Kotlin Multiplatform Library</strong> for offline-first sync</div></div></foreignObject></g><g data-depth="3" data-path="1.25.28" class="markmap-node" transform="translate(329, 561.28125)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="325" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="307" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Terraform Provider</strong> for niche cloud service</div></div></foreignObject></g><g data-depth="2" data-path="1.25" class="markmap-node" transform="translate(80, 534.90625)"><line stroke="#9467bd" stroke-width="1.75" x1="-1" x2="171" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="169" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="153" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🎯 Currently Building</div></div></foreignObject></g><g data-depth="3" data-path="1.29.30" class="markmap-node" transform="translate(300, 592.65625)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="2" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&amp;color=00D9FF&amp;style=for-the-badge" alt="Profile Views" /></div></div></foreignObject></g><g data-depth="2" data-path="1.29" class="markmap-node" transform="translate(80, 592.65625)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="142" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="140" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="124" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">📫 Let's Connect</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0,0)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="2" y1="1.25" y2="1.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="0" cy="1.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"></div></div></foreignObject></g></g></svg>

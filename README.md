@@ -1,20 +1,20 @@
-&lt;!-- Hero Banner --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fullstack+Engineer+%7C+AI+Integrator+%7C+DevOps+Automator;Building+Production-Ready+Apps+with+Modern+Tech+Stacks;3x+Deployed+Products+%7C+Open+Source+Contributor" alt="Hero Tagline" /&gt;
-&lt;/p&gt;
+<!-- Hero Banner -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=11B736E0&width=435&lines=Fullstack+Software+Developer%2B+DevOps+Engineer;AI+%2F+ML+-+Powered+SaaS+%26+Kubernetes+Specialist;Built+%26+Deployed+5+Production+Apps" alt="Typing SVG" />
+</p>
 
-&lt;!-- Live Demo Links --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://your-main-project.vercel.app"&gt;&lt;img src="https://img.shields.io/badge/🚀_Live_Demo-Main_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://your-devops-demo.railway.app"&gt;&lt;img src="https://img.shields.io/badge/🔧_Infra_Demo-DevOps_Stack-FF6B6B?style=for-the-badge&logo=railway&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://your-flutter-app.demo"&gt;&lt;img src="https://img.shields.io/badge/📱_Mobile_Demo-Flutter_App-02569B?style=for-the-badge&logo=flutter&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<!-- Live Demo Links -->
+<p align="center">
+  <a href="https://your-main-project.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Main_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://your-devops-demo.railway.app"><img src="https://img.shields.io/badge/🔧_Infra_Demo-DevOps_Stack-FF6B6B?style=for-the-badge&logo=railway&logoColor=white" /></a>
+  <a href="https://your-flutter-app.demo"><img src="https://img.shields.io/badge/📱_Mobile_Demo-Flutter_App-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+</p>
 
-&lt;!-- GitHub Copilot Force Multiplier Badge --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Built_with-GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=000000" alt="GitHub Copilot Force Multiplier" /&gt;
-  &lt;img src="https://img.shields.io/badge/AI_Augmented-Development-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" /&gt;
-&lt;/p&gt;
+<!-- GitHub Copilot Force Multiplier Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_with-GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=000000" alt="GitHub Copilot Force Multiplier" />
+  <img src="https://img.shields.io/badge/AI_Augmented-Development-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
@@ -32,12 +32,6 @@
 
 ## 🏗️ Architecture at a Glance
 
-&lt;!-- Excalidraw Diagram - Export as .excalidraw.png with embedded scene --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="./assets/system-architecture.excalidraw.png" width="800" alt="System Architecture" /&gt;
-  &lt;br/&gt;
-  &lt;em&gt;Click to edit in Excalidraw • &lt;a href="./assets/system-architecture.excalidraw"&gt;Source&lt;/a&gt;&lt;/em&gt;
-&lt;/p&gt;
 
 **Architecture Highlights:**
 - **Microservices** with event-driven communication
@@ -125,11 +119,11 @@
 
 ## 🛠️ Built with GitHub Copilot as Force Multiplier
 
-&gt; **Development Velocity Impact:**
-&gt; - 40% faster boilerplate generation
-&gt; - 60% reduction in documentation time
-&gt; - 25% increase in test coverage (Copilot-generated edge cases)
-&gt; - Zero production bugs from auto-generated regex patterns
+> **Development Velocity Impact:**
+> - 40% faster boilerplate generation
+> - 60% reduction in documentation time
+> - 25% increase in test coverage (Copilot-generated edge cases)
+> - Zero production bugs from auto-generated regex patterns
 
 **How I Leverage AI:**
 - **Architecture Decisions**: Copilot Chat for design pattern validation
@@ -141,14 +135,14 @@
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true" height="180" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true" height="180" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true" height="180" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=Tech%20Stack&lineCount=2&line1=nextjs,react,typescript,tailwind,nodejs,postgresql&line2=flutter,kotlin,docker,kubernetes,terraform,aws&bg=0D1117&badgeColor=000000&borderColor=21262D" alt="Tech Stack" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=Tech%20Stack&lineCount=2&line1=nextjs,react,typescript,tailwind,nodejs,postgresql&line2=flutter,kotlin,docker,kubernetes,terraform,aws&bg=0D1117&badgeColor=000000&borderColor=21262D" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -162,13 +156,13 @@
 
 ## 📫 Let's Connect
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/yourprofile"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://twitter.com/yourhandle"&gt;&lt;img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://dev.to/yourblog"&gt;&lt;img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:you@email.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/yourblog"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00D9FF&style=for-the-badge" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</p>
