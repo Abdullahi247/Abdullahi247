@@ -5,9 +5,9 @@
 
 <!-- Live Demo Links -->
 <p align="center">
-  <a href="https://your-main-project.vercel.app"><img src="https://img.shields.io/badge/🚀_Live_Demo-Main_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://your-devops-demo.railway.app"><img src="https://img.shields.io/badge/🔧_Infra_Demo-DevOps_Stack-FF6B6B?style=for-the-badge&logo=railway&logoColor=white" /></a>
-  <a href="https://your-flutter-app.demo"><img src="https://img.shields.io/badge/📱_Mobile_Demo-Flutter_App-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://abdullahi-yusuf.netlify.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Main_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://infrapilot.netlify.app/dashboard"><img src="https://img.shields.io/badge/🔧_Infra_Demo-DevOps_Stack-FF6B6B?style=for-the-badge&logo=railway&logoColor=white" /></a>
+  <a href="https://webpage-composer-abdullah-yusuf.netlify.app/"><img src="https://img.shields.io/badge/📱_Mobile_Demo-Flutter_App-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 </p>
 
 <!-- GitHub Copilot Force Multiplier Badge -->
@@ -20,9 +20,9 @@
 
 ## 🎯 Impact Metrics
 
-| Metric | Value | Proof |
-|--------|-------|-------|
-| **Production Apps** | 3 Deployed | [Live Demo](#) |
+| Metric | Value |
+|--------|-------|
+| **Production Apps** | 7 Deployed | [Live Demo](#) |
 | **CI/CD Pipelines** | 100% Automated | [GitHub Actions](#) |
 | **Code Quality** | A+ Grade | [SonarQube](#) |
 | **Performance** | 40% Faster APIs | [Benchmarks](#) |
@@ -66,8 +66,8 @@
 | **Stack** | Next.js 14 (App Router) • OpenAI GPT-4 • Pinecone Vector DB • Stripe |
 | **Metrics** | 10K+ users • 500K+ AI generations • 99.9% uptime |
 | **Architecture** | [View Diagram](./assets/ai-saas-architecture.excalidraw) |
-| **Live Demo** | [🚀 Launch App](https://your-ai-saas.vercel.app) |
-| **Repo** | [github.com/you/ai-saas](https://github.com/you/ai-saas) |
+| **Live Demo** | [🚀 Launch App](https://abdullahi-yusuf.netlify.app/) |
+| **Repo** | [github.com/you/ai-saas]() |
 
 **Key Features:**
 - RAG-based knowledge system with 95% accuracy
@@ -87,7 +87,7 @@
 | **Stack** | Terraform • AWS EKS • Prometheus • Grafana • ArgoCD |
 | **Metrics** | 90% reduction in provisioning time • $12K/month cost savings |
 | **Architecture** | [View Diagram](./assets/devops-platform.excalidraw) |
-| **Live Demo** | [🔧 View Dashboard](https://your-devops-dashboard.railway.app) |
+| **Live Demo** | [🔧 View Dashboard](https://webpage-composer-abdullah-yusuf.netlify.app/) |
 
 **Key Features:**
 - GitOps workflow with ArgoCD
@@ -96,18 +96,6 @@
 - Multi-environment promotion pipeline
 
 ---
-
-### 3. Flutter Cross-Platform App with On-Device AI
-**Mobile-First** • **Offline-First** • **AI at the Edge**
-
-| Aspect | Implementation |
-|--------|---------------|
-| **Problem** | Field workers need AI assistance without internet connectivity |
-| **Solution** | Flutter app with TensorFlow Lite models + KMM shared logic |
-| **Stack** | Flutter • Kotlin Multiplatform • TensorFlow Lite • Isar DB |
-| **Metrics** | 50K+ downloads • 4.8★ rating • 60fps performance |
-| **Architecture** | [View Diagram](./assets/flutter-ai-app.excalidraw) |
-| **Live Demo** | [📱 Try on Web](https://your-flutter-app.demo) |
 
 **Key Features:**
 - On-device image recognition (no cloud dependency)
@@ -133,16 +121,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=Tech%20Stack&lineCount=2&line1=nextjs,react,typescript,tailwind,nodejs,postgresql&line2=flutter,kotlin,docker,kubernetes,terraform,aws&bg=0D1117&badgeColor=000000&borderColor=21262D" alt="Tech Stack" />
-</p>
 
 ---
 
@@ -157,12 +135,8 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/yourblog"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/yusuf-abdullahi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yusuf-abdullahi/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yusuf-abdullahi.hashnode.dev/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="mailto:abdullahtimilehin15@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
